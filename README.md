@@ -67,3 +67,7 @@ src=../QRCode/examples bash ../script/debot-run.sh
 src=../Sdk/examples bash ../script/debot-run.sh
 src=../SigningBoxInput/examples bash ../script/debot-run.sh
 ```
+
+#### Smoke test
+
+    bash script/compile-all.sh
