@@ -16,7 +16,7 @@
                             style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;word-wrap:normal">
                         <xhtml:span
                                 style="color:#000;font-family:&quot;helvetica&quot;;font-size:12px;font-style:normal;letter-spacing:normal;text-align:center;text-indent:0;text-transform:none;word-spacing:0;display:inline;float:none">
-                            DeBot Browser
+                            Debot Browser
                         </xhtml:span>
                     </xhtml:div>
                 </xhtml:div>
@@ -41,7 +41,7 @@
                             style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
                         <xhtml:span
                                 style="color:#000;font-family:&quot;helvetica&quot;;font-size:12px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:center;text-indent:0;text-transform:none;word-spacing:0;display:inline;float:none">
-                            DeBot Engine 1
+                            Debot Engine 1
                         </xhtml:span>
                     </xhtml:div>
                 </xhtml:div>
@@ -109,7 +109,7 @@
                 <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
                     <xhtml:div
                             style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
-                        DeBot
+                        Debot
                     </xhtml:div>
                 </xhtml:div>
             </xhtml:div>
@@ -199,7 +199,7 @@
                 <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
                     <xhtml:div
                             style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
-                        DeBot
+                        Debot
                     </xhtml:div>
                 </xhtml:div>
             </xhtml:div>
@@ -236,7 +236,7 @@
                 <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
                     <xhtml:div
                             style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
-                        DeBot engine 2
+                        Debot engine 2
                     </xhtml:div>
                 </xhtml:div>
             </xhtml:div>
