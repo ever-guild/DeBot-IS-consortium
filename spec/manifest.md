@@ -18,7 +18,17 @@ This allows applications to draw custom UI, collect inputs from the user and the
 
 ## Diagram
 
-![browser_as_service.png](browser_as_service.png)
+```mermaid
+sequenceDiagram
+    DApp ->> Debot browser: Run with manifest
+    par Instance Debot
+        Debot browser ->> DEngine: Start or create msg + invoke
+        Debot browser ->> DEngine: Send response
+        DEngine --> DEngine: Dispatch [msg1, msg2..., msgN] interface calls
+        DEngine ->> Debot browser: Catch answer msg + decode it (only if was invoked)
+    end
+    Debot browser->>DApp: Return JSON with response
+```
 
 # Specification
 
