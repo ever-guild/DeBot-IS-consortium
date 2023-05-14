@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="631" height="261"
+     style="background-color:#fff" viewBox="-0.5 -0.5 631 261">
+    <rect width="384.824" height="239.879" x="7.424" y="12.536" rx="10.207" ry="4.677"
+          style="fill:#dae8fc;fill-opacity:1;stroke:#6c8ebf;stroke-width:2.8208158;stroke-opacity:1"/>
+    <rect width="120" height="180" x="40" y="40" rx="3.183" ry="3.51"
+          style="fill:#d5e8d4;fill-opacity:1;stroke:#82b366;stroke-width:1.36450195;stroke-opacity:1"/>
+    <path fill="none" d="M150 14h90v20h-90z" pointer-events="all"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:24px;margin-left:151px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;word-wrap:normal">
+                        <xhtml:span
+                                style="color:#000;font-family:&quot;helvetica&quot;;font-size:12px;font-style:normal;letter-spacing:normal;text-align:center;text-indent:0;text-transform:none;word-spacing:0;display:inline;float:none">
+                            DeBot Browser
+                        </xhtml:span>
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="195" y="28" font-size="12" font-weight="bold"
+              style="font-weight:700;font-size:12px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:&quot;JetBrains Mono&quot;;-inkscape-font-specification:&quot;JetBrains Mono Bold&quot;">
+                Debot Browser
+            </tspan>
+        </text>
+    </switch>
+    <path fill="none" d="M260 43h90v20h-90z" pointer-events="all"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:53px;margin-left:261px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        <xhtml:span
+                                style="color:#000;font-family:&quot;helvetica&quot;;font-size:12px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:center;text-indent:0;text-transform:none;word-spacing:0;display:inline;float:none">
+                            DeBot Engine 1
+                        </xhtml:span>
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="305" y="57" font-size="12" style="font-size:12px;font-family:Helvetica;text-anchor:middle">Debot Engine
+            1
+        </text>
+    </switch>
+    <path fill="none" d="M505 14h60v20h-60z" pointer-events="all"/>
+    <rect width="169.138" height="239.842" x="457.689" y="11.208" rx="4.486" ry="4.677"
+          style="fill:#ffe6cc;fill-opacity:1;stroke:#d79b00;stroke-width:1.86994946;stroke-opacity:1"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:58px;height:1px;padding-top:24px;margin-left:506px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;word-wrap:normal">
+                        blockchain
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="535" y="28" font-size="12" font-weight="bold"
+              style="font-weight:700;font-size:12px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="-inkscape-font-specification:&quot;JetBrains Mono Bold&quot;;font-family:&quot;JetBrains Mono&quot;;font-weight:700;font-style:normal;font-stretch:normal;font-variant:normal">
+                Blockchain
+            </tspan>
+        </text>
+    </switch>
+    <rect width="120" height="180" x="260" y="43" rx="3.183" ry="3.51"
+          style="fill:#d5e8d4;fill-opacity:1;stroke:#82b366;stroke-width:1.36450195;stroke-opacity:1"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M490 100H366.37" pointer-events="stroke"/>
+    <path stroke="#000" stroke-miterlimit="10" d="m361.12 100 7-3.5-1.75 3.5 1.75 3.5Z" pointer-events="all"/>
+    <switch transform="translate(-17.443 -6.338)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:1px;height:1px;padding-top:100px;margin-left:425px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:11px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;background-color:#fff;white-space:nowrap">
+                        load
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="425" y="103" font-size="11" style="font-size:11px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;JetBrains Mono&quot;;-inkscape-font-specification:&quot;JetBrains Mono&quot;">
+                load
+            </tspan>
+        </text>
+    </switch>
+    <rect width="90" height="40" x="490" y="80" fill="#fff" stroke="#000" pointer-events="all" rx="6" ry="6"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:100px;margin-left:491px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        DeBot
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="535" y="104" font-size="12" style="font-size:12px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;JetBrains Mono&quot;;-inkscape-font-specification:&quot;JetBrains Mono&quot;">
+                Debot
+            </tspan>
+        </text>
+    </switch>
+    <rect width="90" height="40" x="490" y="170" fill="#fff" stroke="#000" pointer-events="all" rx="6" ry="6"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:190px;margin-left:491px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        target<xhtml:br/>contract
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="535" y="194" font-family="Helvetica" font-size="12" text-anchor="middle">
+            <tspan style="-inkscape-font-specification:&quot;JetBrains Mono&quot;;font-family:&quot;JetBrains Mono&quot;;font-weight:400;font-style:normal;font-stretch:normal;font-variant:normal">
+                target...
+            </tspan>
+        </text>
+    </switch>
+    <path stroke-miterlimit="10" d="M337.1 120v21.804l-.188 14.86" pointer-events="stroke"
+          style="fill:none;stroke:#000;stroke-width:1.04412961;stroke-miterlimit:10"/>
+    <path stroke-miterlimit="10" d="m336.912 161.914-3.5-7 3.5 1.75 3.5-1.75z" pointer-events="all"
+          style="stroke:#000;stroke-miterlimit:10"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M292.5 120v55H166.37" pointer-events="stroke"/>
+    <path stroke="#000" stroke-miterlimit="10" d="m161.12 175 7-3.5-1.75 3.5 1.75 3.5Z" pointer-events="all"/>
+    <switch transform="translate(-34.843 -23.167)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:1px;height:1px;padding-top:190px;margin-left:261px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:11px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:nowrap">
+                        invoke debot
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="261" y="193" font-size="11" style="font-size:11px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="-inkscape-font-specification:&quot;JetBrains Mono&quot;;font-family:&quot;JetBrains Mono&quot;;font-weight:400;font-style:normal;font-stretch:normal;font-variant:normal">
+                invoke Debot
+            </tspan>
+        </text>
+    </switch>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="m370 189.94 60-.04v.1h53.63" pointer-events="stroke"/>
+    <path stroke="#000" stroke-miterlimit="10" d="m488.88 190-7 3.5 1.75-3.5-1.75-3.5Z" pointer-events="all"/>
+    <switch transform="translate(-5.537 -7.369)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:1px;height:1px;padding-top:190px;margin-left:430px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:11px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;background-color:#fff;white-space:nowrap">
+                        send msgs
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="430" y="193" font-size="11" style="font-size:11px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;JetBrains Mono&quot;;-inkscape-font-specification:&quot;JetBrains Mono&quot;">
+                send msgs
+            </tspan>
+        </text>
+    </switch>
+    <rect width="90" height="40" x="270" y="80" fill="#fff" stroke="#000" pointer-events="all" rx="6" ry="6"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:100px;margin-left:271px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        DeBot
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="315" y="104" font-size="12" style="font-size:12px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="-inkscape-font-specification:&quot;JetBrains Mono&quot;;font-family:&quot;JetBrains Mono&quot;;font-weight:400;font-style:normal;font-stretch:normal;font-variant:normal">
+                Debot
+            </tspan>
+        </text>
+    </switch>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:118px;height:1px;padding-top:130px;margin-left:41px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        ...
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="100" y="134" font-family="Helvetica" font-size="12" text-anchor="middle">...</text>
+    </switch>
+    <path fill="none" d="M55 43h90v20H55z" pointer-events="all"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:53px;margin-left:56px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        DeBot engine 2
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="100" y="57" font-size="12" style="font-size:12px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="-inkscape-font-specification:&quot;JetBrains Mono&quot;;font-family:&quot;JetBrains Mono&quot;;font-weight:400;font-style:normal;font-stretch:normal;font-variant:normal">
+                Debot engine 2
+            </tspan>
+        </text>
+    </switch>
+    <path fill="none" d="M313 160h50v20h-50z" pointer-events="all"/>
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:48px;height:1px;padding-top:170px;margin-left:314px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        syscalls
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="338" y="174" font-family="Helvetica" font-size="12" text-anchor="middle">
+            <tspan style="-inkscape-font-specification:&quot;JetBrains Mono&quot;;font-family:&quot;JetBrains Mono&quot;;font-weight:400;font-style:normal;font-stretch:normal;font-variant:normal">
+                syscalls
+            </tspan>
+        </text>
+    </switch>
+    <path stroke-miterlimit="10" d="M225 70v60.324h28.034" pointer-events="stroke"
+          style="fill:none;stroke:#000;stroke-width:1.22999513;stroke-miterlimit:10"/>
+    <path stroke-miterlimit="10" d="m258.284 130.324-7 3.5 1.75-3.5-1.75-3.5z" pointer-events="all"
+          style="stroke:#000;stroke-miterlimit:10"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M195 70v60h-28.63" pointer-events="stroke"/>
+    <path stroke="#000" stroke-miterlimit="10" d="m161.12 130 7-3.5-1.75 3.5 1.75 3.5Z" pointer-events="all"/>
+    <path fill="none" d="M185 50h40v20h-40z" pointer-events="all"/>
+    <switch transform="translate(5.012 -.824)">
+        <foreignObject width="100%" height="100%" pointer-events="none"
+                       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                       style="overflow:visible;text-align:left">
+            <xhtml:div
+                    style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:38px;height:1px;padding-top:60px;margin-left:186px">
+                <xhtml:div style="box-sizing:border-box;font-size:0;text-align:center">
+                    <xhtml:div
+                            style="display:inline-block;font-size:12px;font-family:Helvetica;color:#000;line-height:1.2;pointer-events:all;white-space:normal;word-wrap:normal">
+                        create
+                    </xhtml:div>
+                </xhtml:div>
+            </xhtml:div>
+        </foreignObject>
+        <text x="205" y="64" font-size="12" style="font-size:12px;font-family:Helvetica;text-anchor:middle">
+            <tspan style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;JetBrains Mono&quot;;-inkscape-font-specification:&quot;JetBrains Mono&quot;">
+                create
+            </tspan>
+        </text>
+    </switch>
+</svg>
