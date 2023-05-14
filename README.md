@@ -1,4 +1,11 @@
-# DeBot-IS-consortium
+<p align="center">
+  <a href="https://github.com/ever-guild/debots">
+    <img src="https://raw.githubusercontent.com/ever-guild/debot/main/asset/debot.svg" height="60"/>
+  </a>
+</p>
+<h1 align="center">Debot</h1>
+<p align="center">Next gen DApps where you don't need to develop your frontend</p>
+
 DeBot Interface Specifications (IS) Consortium. IS a place where community defines interfaces every DeBot browser should support.
 
 ### Application Rules:
